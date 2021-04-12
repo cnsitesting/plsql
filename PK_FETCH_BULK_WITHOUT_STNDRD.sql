@@ -1,6 +1,6 @@
 create or replace PACKAGE pk_fetch_bulk_without_stndrd
 AS
-/******************************************************************************
+/*******************************************************************************
    NAME:       PK_FETCH_BULK_WITHOUT_STNDRD
    PURPOSE:   To validate Sonarqube Rule: AvoidFetchBulkCollectIntoWithoutLimitCheck
 
